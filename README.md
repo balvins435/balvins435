@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Kiplangat Vincent
 
-😄 Pronouns: He/Him
-
 🚀 Full-Stack Developer | ERP Builder | AI Enthusiast | Problem Solver
 
 I build scalable, real-world business systems that solve operational problems using modern web technologies and data-driven solutions.
