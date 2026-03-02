@@ -62,7 +62,7 @@ I enjoy turning business workflows into clean, automated digital systems.
 
 ## 🐄 Livestock Management System
 
-**Tech:** Django + React (TypeScript) + PostgreSQL
+**Tech:** Django + React (TypeScript) + PostgreSQL with ML model.
 
 A full-stack system for managing:
 
