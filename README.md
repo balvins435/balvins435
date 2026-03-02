@@ -52,7 +52,7 @@ I enjoy turning business workflows into clean, automated digital systems.
 
 * Git & GitHub
 * Docker (learning & applying)
-* Railway (deployment)
+* Render (deployment)
 * Postman
 * Ubuntu Linux
 
