@@ -101,6 +101,7 @@ Features:
 * Dynamic invoice/receipt generation
 * Automatic tax, subtotal, and discount calculation
 * Export to PDF/Word
+* Financial reports and expenses
 * Reusable component design
 
 Designed for small and medium businesses.
