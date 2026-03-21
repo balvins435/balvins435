@@ -54,13 +54,13 @@ I enjoy turning business workflows into clean, automated digital systems.
 * Docker (learning & applying)
 * Render (deployment)
 * Postman
-* Ubuntu Linux
+* AWS(Learning)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🐄 Livestock Management System
+##  Livestock Management System
 
 **Tech:** Django + React (TypeScript) + PostgreSQL with ML model.
 
@@ -76,7 +76,7 @@ Built with modern React architecture and clean API integration.
 
 ---
 
-## 📦 ERP System (Inventory + Procurement + Finance + Sales)
+##  ERP System (Inventory + Procurement + Finance + Sales)
 
 **Tech:** Django + React (Next.js + TypeScript)
 
