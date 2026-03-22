@@ -30,6 +30,7 @@ I enjoy turning business workflows into clean, automated digital systems.
 * Laravel (PHP)
 * Node (basic)
 * Microsoft Dynamics 365 NAV (AL Language)
+  ### Database
 * PostgreSQL
 * MySQL
 
