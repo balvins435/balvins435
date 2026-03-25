@@ -48,6 +48,8 @@ I enjoy turning business workflows into clean, automated digital systems.
 * Logistic Regression modeling
 * Survival Analysis (Kaplan-Meier, Cox PH in R)
 * Customer churn prediction
+* Random Forest
+  
 
 ### ⚙ Dev Tools
 
@@ -104,6 +106,7 @@ Features:
 * Export to PDF/Word
 * Financial reports and expenses
 * Reusable component design
+* Mpesa payments integration
 
 Designed for small and medium businesses.
 
