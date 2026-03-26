@@ -194,7 +194,7 @@ I’m open to:
 
 # 📈 GitHub Goals
 
-* Build production-grade SaaS
+
 * Contribute to open source
 * Share clean architecture patterns
 * Document learning publicly
