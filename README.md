@@ -61,6 +61,7 @@ I enjoy turning business workflows into clean, automated digital systems.
 * Render (deployment)
 * Postman
 * AWS(Learning)
+* CI & CD Pipeline 
 
 ---
 
