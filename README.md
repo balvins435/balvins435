@@ -112,6 +112,7 @@ Features:
 * Financial reports and expenses
 * Reusable component design
 * Mpesa payments integration
+* AI agent
 
 Designed for small and medium businesses.
 
