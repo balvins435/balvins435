@@ -21,7 +21,7 @@ I’m a **BSc IT graduate from Dedan Kimathi University of Technology** with str
 * AI agents.
 * Backend Development
 
-I enjoy turning business workflows into clean, automated digital systems.
+I enjoy turning business workflows into clean, automated digital system abd AI agents.
 
 ---
 
