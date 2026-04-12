@@ -204,6 +204,7 @@ I’m open to:
 * Contribute to open source
 * Share clean architecture patterns
 * Document learning publicly
+* Continue to learn
 
 ---
 
