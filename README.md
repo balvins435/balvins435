@@ -37,6 +37,7 @@ I enjoy turning business workflows into clean, automated digital system abd AI a
   ### Database
 * PostgreSQL
 * MySQL
+* Laravel 
 
 ### 🎨 Frontend
 
