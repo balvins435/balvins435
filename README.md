@@ -48,7 +48,7 @@ I enjoy turning business workflows into clean, automated digital system abd AI a
 * Tailwind CSS
 * React-Native
 
-### 📊 Data & AI
+### 📊 Machine Learning & AI
 
 * Python (Pandas, Scikit-learn)
 * Logistic Regression modeling
