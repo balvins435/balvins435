@@ -47,6 +47,7 @@ I enjoy turning business workflows into clean, automated digital system abd AI a
 * Vue.js
 * Tailwind CSS
 * React-Native
+* PHP
 
 ### 📊 Machine Learning & AI
 
