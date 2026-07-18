@@ -22,6 +22,7 @@ I’m a **BSc IT graduate from Dedan Kimathi University of Technology** with str
 * Backend Development.
 * Mobile Development.
 * Business Automation
+* 
 
 I enjoy turning business workflows into clean, automated digital system and AI agents.
 
@@ -163,6 +164,7 @@ Explores embedded systems + web integration.
 * Email notifications
 
 ---
+## Prayer App
 
 # 🏢 Enterprise Experience
 
