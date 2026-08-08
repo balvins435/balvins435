@@ -167,6 +167,7 @@ Explores embedded systems + web integration.
 ---
 ## Prayer App
  * React Native + Expo
+ * Available in playstore
  * Fully Offline
 
 # 🏢 Enterprise Experience
