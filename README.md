@@ -169,6 +169,7 @@ Explores embedded systems + web integration.
  * React Native + Expo
  * Available in playstore
  * Fully Offline
+ * Catholic prayers
 
 # 🏢 Enterprise Experience
 
