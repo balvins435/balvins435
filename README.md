@@ -166,7 +166,7 @@ Explores embedded systems + web integration.
 
 ---
 ## Prayer App
- * React Native + Expo
+**Tech** * React Native + Expo
  * Available in playstore
  * Fully Offline
  * Catholic prayers
