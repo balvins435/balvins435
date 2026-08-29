@@ -120,6 +120,7 @@ Features:
 * Reusable component design
 * Mpesa payments integration
 * AI agent
+* Email and WhatsApp integration 
 
 Designed for small and medium businesses.
 
