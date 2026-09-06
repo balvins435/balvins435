@@ -59,6 +59,8 @@ I enjoy turning business workflows into clean, automated digital system and AI a
 * Survival Analysis (Kaplan-Meier, Cox PH in R)
 * Customer churn prediction
 * Random Forest
+Agentic Development
+
   
 
 ### ⚙ Dev Tools
