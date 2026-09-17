@@ -37,6 +37,7 @@ I enjoy turning business workflows into clean, automated digital system and AI a
 * Laravel (PHP)
 * Node (basic)
 * System Design
+* Nestjs
 * Microsoft Dynamics 365 NAV (AL Language)
   ### Database
 * PostgreSQL
