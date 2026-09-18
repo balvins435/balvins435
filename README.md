@@ -12,7 +12,8 @@ I build scalable, real-world business systems that solve operational problems us
 
 I’m a **BSc IT graduate from Dedan Kimathi University of Technology** with strong experience in:
 
-* Sytems development 
+* Sytems development
+* Web Development 
 * Enterprise systems (ERP-style applications)
 * SaaS product development
 * Financial & inventory systems
