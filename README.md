@@ -20,7 +20,6 @@ I’m a **BSc IT graduate from Dedan Kimathi University of Technology** with str
 * Machine Learning & data analytics
 * Microsoft Dynamics NAV customization
 * Embedded + Web integrations (IoT + Django)
-* AI agents.
 * Backend Development.
 * Mobile Development.
 * Business Automation
