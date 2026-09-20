@@ -35,7 +35,7 @@ I enjoy turning business workflows into clean, automated digital system and AI a
 
 * Django & Django REST Framework
 * Laravel (PHP)
-* Node (basic)
+* Nodejs
 * System Design
 * Nestjs
 * Microsoft Dynamics 365 NAV (AL Language)
