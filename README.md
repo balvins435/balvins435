@@ -95,7 +95,7 @@ Built with modern React architecture and clean API integration.
 
 ##  ERP System (Inventory + Procurement + Finance + Sales)
 
-**Tech:** Django + React (Next.js + TypeScript)
+**Tech:** Django + React (Next.js + TypeScript) with PostgreSQL
 
 A modular ERP system including:
 
