@@ -175,6 +175,9 @@ Explores embedded systems + web integration.
  * Fully Offline
  * Catholic prayers
 
+## Biashara Bot
+**Tech**
+
 # 🏢 Enterprise Experience
 
 ## Microsoft Dynamics 365 NAV Development
