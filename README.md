@@ -21,7 +21,8 @@ I’m a **BSc IT graduate from Dedan Kimathi University of Technology** with str
 * Microsoft Dynamics NAV customization
 * Embedded + Web integrations (IoT + Django)
 * Backend Development.
-* Mobile Development. 
+* Mobile Development.
+* Cloud services
 
 I enjoy turning business workflows into clean, automated digital system and AI agents.
 
