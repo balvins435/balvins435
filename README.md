@@ -138,7 +138,7 @@ Designed for small and medium businesses.
 * Logistic regression churn model
 * Model evaluation
 * Kaplan-Meier survival curves
-* Cox Proportional Hazards modeling
+
 
 Bridges business analytics with predictive modeling.
 
