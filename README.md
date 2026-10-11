@@ -118,7 +118,7 @@ Features:
 
 * Dynamic invoice/receipt generation
 * Automatic tax, subtotal, and discount calculation
-* Export to PDF/Word
+* Generate PDF/Word
 * Financial reports and expenses
 * Reusable component design
 * Mpesa payments integration
