@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Kiplangat Vincent
+# 👋 Hi, I'm Kiplangat 
 
 🚀 Full-Stack Developer | ERP Builder | AI Enthusiast | Problem Solver
 
